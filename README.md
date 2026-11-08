@@ -37,7 +37,7 @@ I design and build scalable test automation frameworks for UI and API testing, a
 
 - **Framework design:** Page Object Model, reusable utilities, environment-based config, parallel execution, rich reporting
 - **Shift-left quality:** automated checks on every pull request through CI/CD pipelines
-- **Leadership:** reviewing automation code, setting standards, and mentoring engineers on testing best practices
+- **Communication and collaboration:** working closely with product, development and DevOps teams to bring quality in early, clarify requirements and keep releases on track
 
 ---
 
