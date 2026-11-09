@@ -12,6 +12,7 @@ I design and build scalable test automation frameworks for UI and API testing, a
 
 ## 🛠️ Tech Stack
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,10 +24,19 @@ I design and build scalable test automation frameworks for UI and API testing, a
 
 ---
 
+## 🤖 AI-Powered Testing with Claude Code
+
+I build agentic QA workflows: teams of AI agents that analyse user stories, write and automate test cases, heal broken tests and report traceability. I check every result myself.
+
+---
+
 ## 📌 Featured Projects
 
-| Project |
+| Project | What it is |
 |---|---|
+| [**agentic-qa-parabank**](https://github.com/nidhinegi1995/agentic-qa-parabank) | A team of 9 Claude Code agents takes a user story to executed Playwright tests and an Excel traceability matrix. On one story: 18 gaps found, 49 test cases, 47 automated, 14 real defects logged |
+| [**one-prompt-apps**](https://github.com/nidhinegi1995/one-prompt-apps) | A React Kanban app built from one prompt and hardened by three AI review agents · [Live demo](https://nidhinegi1995.github.io/one-prompt-apps/) |
+| [**claude-code-learning-journal**](https://github.com/nidhinegi1995/claude-code-learning-journal) | Seven lessons of notes and prompts, from Claude Code setup to multi-agent teams |
 | [**My-Playwright-Project**](https://github.com/nidhinegi1995/My-Playwright-Project) | Cross-browser end-to-end suite in TypeScript running on Chromium, Firefox and WebKit, with GitHub Actions CI/CD |
 | [**all-about-api-testing-and-automation**](https://github.com/nidhinegi1995/all-about-api-testing-and-automation) | API automation with Playwright and Postman: authentication, schema validation and CI/CD integration |
 | [**all-about-javascript-typescript**](https://github.com/nidhinegi1995/all-about-javascript-typescript) | JavaScript and TypeScript fundamentals for QA engineers, the base for writing clean, maintainable test code |
